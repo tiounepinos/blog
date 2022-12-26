@@ -1,2 +1,0 @@
-# blog
-Curso de platzi
